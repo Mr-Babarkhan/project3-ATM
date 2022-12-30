@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
 
-let delete = "khsn"
+
 
 let input = await inquirer.prompt([
     {
